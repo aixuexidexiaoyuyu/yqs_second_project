@@ -23,4 +23,6 @@ model.learn(total_timesteps=1e5) #总共的时间步的数量
 
 model.save("./model/LunarLander3.pkl")
 
+print("test for second time")
+
 
